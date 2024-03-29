@@ -1,0 +1,39 @@
+{
+  "name": "cosmic-vine-cultivator",
+  "version": "1.0.0",
+  "description": "Offers a suite of tools for managing and analyzing big data in real-time, ensuring data-driven decision-making and operational efficiency.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/cosmic-vine-cultivator"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "azure-depths-explorer": "1.0.0",
+    "digital-herb-gardener": "1.0.0",
+    "pg": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "dotenv": "1.0.0",
+    "express": "1.0.0",
+    "cheerio": "1.0.0",
+    "mongoose": "1.0.0",
+    "redux": "1.0.0",
+    "sinon": "1.0.0",
+    "fs-extra": "1.0.0",
+    "node-sass": "1.0.0",
+    "webpack-cli": "1.0.0",
+    "firebase": "1.0.0",
+    "react-redux": "1.0.0",
+    "xml2js": "1.0.0",
+    "body-parser": "1.0.0",
+    "enzyme": "1.0.0",
+    "multer": "1.0.0",
+    "passport": "1.0.0"
+  }
+}
